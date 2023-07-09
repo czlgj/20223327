@@ -1,0 +1,116 @@
+		body{
+			padding: 0px;
+			margin: 0px;
+			background-color: #f4f4f4;
+		}
+		li{
+			list-style: none;
+			margin-left: 30px;
+		}
+		#img1{
+			margin-left: 50px;
+		}
+		#text1{
+			margin:0;
+			padding:0;
+			width: 50vw;
+			display:flex;
+			flex-direction: row;
+		}
+		#text2{
+			margin:0;
+			padding:0;
+			width: 50vw;
+			display:flex;
+			flex-direction: row;
+		}
+		#topdiv2{
+			padding-left: 250px;
+			margin-top: 3px;
+			width: 100vw;
+			height: 50px;
+			background-color: #fff;
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+		}
+		#topdiv1{
+			width: 100vw;
+			height: 50px;
+			background-color: #fff;
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+		}
+		#wenben{
+			padding: 8px;
+			position: absolute;
+			left: 310px;
+			margin-top: 10px;
+			background-color: #fff;
+			width: 800px;
+			height: 100vh;
+		}
+		#img2{
+			position: absolute;
+			left: 1150px;
+			margin-top: 10px;
+			width: 350px;
+			height: 300px;
+		}
+		#App{
+			width: 350px;
+			height: 100px;
+			position: absolute;
+			left: 1150px;
+			top:450px;
+			background-color: #fff;
+			display: flex;
+			align-items: center;
+			
+		}
+		#zuozhe{
+			width: 350px;
+			height: 400px;
+			position: absolute;
+			left: 1150px;
+			top:600px;
+			background-color: #f4f4f4;
+		}
+		#name{
+			display: flex;
+			align-items: center;
+			width: 350px;
+			height: 50px;
+			background-color: #fff;
+		}
+		#bodu{
+			display: flex;
+			flex-direction: column;
+			margin-top: 4px;
+			width: 350px;
+			height: 300px;
+			background-color: #fff;
+		}
+		
+		.toxiangwema{
+			margin-left: 20px;
+			width: 80px;
+			height: 80px;
+		}
+		.toxiang{
+			border-radius: 100px;
+			width: 60px;
+			height: 60px;
+			margin-left: 20px;
+		}
+		.zuoID{
+			width: 350px;
+			height: 100px;
+			display: flex;
+			flex-direction: row;
+			align-items: center; 
+		}
+		.nametext{
+			margin-left: 10px;
+		}
